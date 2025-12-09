@@ -8,7 +8,7 @@ Este arquivo inclui as seguintes modificações:
 
 <!-- end list -->
 
-```markdown
+
 # 🌦️ Chatbot Meteorológico Inteligente
 
 Este projeto consiste no desenvolvimento de um chatbot que utiliza **Inteligência Artificial Generativa (GenAI)** para interpretar perguntas em linguagem natural sobre o clima e fornecer a previsão do tempo dos próximos 4 dias, utilizando dados em tempo real. A aplicação é construída em Python usando **Streamlit** para a interface web e o modelo **Gemini 2.5 Flash** com a funcionalidade de *Function Calling*.
